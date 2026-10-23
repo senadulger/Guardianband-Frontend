@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "GuardianBand"
+    },
+    {
+      "name": "location_reason",
+      "value": "This app requires location permission to show your current location on the emergency map."
+    },
+    {
+      "name": "camera_reason",
+      "value": "We need camera access to scan your medication labels automatically."
+    }
+  ]
+}
