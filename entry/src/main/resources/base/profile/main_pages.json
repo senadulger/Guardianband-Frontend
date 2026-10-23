@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/WelcomePage",
+    "pages/SelectRolePage",
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/HomePage",
+    "pages/MedsPage",
+    "pages/ProfileSetupPage",
+    "pages/SOSPage",
+    "pages/ProfilePage",
+    "pages/CameraPage",
+    "pages/PatientsPage"
+  ]
+}
