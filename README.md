@@ -36,10 +36,6 @@ The default API address is `http://10.0.2.2:3000`. For a physical device, set yo
 - `entry/src/main/resources/`: images, strings, and page configuration
 - `BACKEND_REQUESTS.md`: backend integration notes
 
-## Demo Video
-
-You can watch the demo video below to see the main features and general flow of the application:
-
 ## Status
 
 Internship frontend portfolio project. The build has not been verified during repository preparation. This is not an official Huawei product or a production medical service.
